@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fraskatintas
+- 👀 I’m interested in AI tech
+- 🌱 I’m currently learning AI bases
